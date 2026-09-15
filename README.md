@@ -23,6 +23,8 @@ PUBLIC_RELEASE_CHECKLIST.md
 
 ## How to Run
 
+All analyses should be performed in R version 4.4.1.
+
 1. Copy `config_template.R` to `config.R`.
 2. Edit `config.R` with local paths to approved analysis-ready datasets.
 3. Run the scripts in order:
